@@ -1,0 +1,7 @@
+data/censo/basico/raw/*
+data/censo/caracteristicas_domicilio/raw/* 
+data/censo/entorno/raw/* 
+project_tcc_py311
+data/criminalidade/*
+data/censo/rendimento_responsavel/*
+data/*
