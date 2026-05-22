@@ -1,0 +1,13 @@
+[ Mapa Taxa de Criminaliade ] 
+Para fins de representação cartográfica, a taxa de roubos e furtos de veículos por 1.000 habitantes foi submetida à transformação logarítmica (log1p), reduzindo a influência de valores extremos e permitindo melhor visualização dos padrões espaciais da criminalidade.
+
+
+[ Mapa de Infraestrutura ] 
+Observa-se maior concentração de setores censitários com elevados níveis de infraestrutura urbana na região central do município, enquanto os menores valores concentram-se predominantemente nas áreas periféricas. O padrão espacial identificado sugere uma distribuição desigual da infraestrutura urbana no território paulistano, com forte centralização dos melhores indicadores de pavimentação, iluminação pública, acessibilidade, arborização e mobilidade. Esse resultado é consistente com as correlações e modelos de regressão apresentados anteriormente, que indicaram associação positiva entre infraestrutura urbana e taxas de roubos e furtos de veículos.
+
+[ Mapa Renda ] 
+
+A análise espacial da renda média dos responsáveis pelos domicílios revela forte concentração dos maiores rendimentos na região central e no eixo sudoeste do município de São Paulo, contrastando com os menores valores observados nas áreas periféricas. Tal padrão evidencia a elevada desigualdade socioeconômica existente no espaço urbano paulistano, marcada pela centralização da renda em setores mais consolidados da cidade. Os resultados corroboram as análises estatísticas realizadas, nas quais a renda média apresentou associação positiva com as taxas de roubos e furtos de veículos. Essa relação pode refletir a maior concentração de atividades econômicas, fluxo de pessoas e circulação de veículos nas áreas de maior renda, ampliando as oportunidades para a ocorrência desses crimes patrimoniais.
+
+[ Mapa Indice Caminhabilidade ] 
+Observa-se maior concentração dos níveis elevados de caminhabilidade na região central do município de São Paulo e em importantes eixos urbanos estruturados. Em contraste, os menores valores concentram-se predominantemente nas áreas periféricas. O padrão espacial evidencia que ambientes urbanos mais acessíveis ao deslocamento a pé tendem a se concentrar nas regiões mais consolidadas da cidade. Esse resultado é consistente com as análises estatísticas realizadas, nas quais o índice de caminhabilidade apresentou a maior correlação positiva com as taxas de roubos e furtos de veículos entre os indicadores urbanos avaliados.
