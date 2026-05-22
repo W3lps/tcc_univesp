@@ -814,9 +814,6 @@ def add_censo_urban_infra_features(df: DataFrame) -> DataFrame:
     )
 
 
-from pyspark.sql import DataFrame
-from pyspark.sql.functions import col, log1p
-
 
 def add_censo_socioeconomic_features(df: DataFrame) -> DataFrame:
 
